@@ -1,0 +1,363 @@
+,Unnamed: 0,Timestamp,KCC_Branch,Name,BonusCard_YN,card_id,BonusCard_Use,Raffle_YN,Personas,is_Lapsed,RFM_Segmentation
+0,0,7/16/2024 17:27,KCC Mall de Zamboanga,NIZEL A. MUAYADI,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Recent Customers
+1,1,7/16/2024 20:01,KCC Mall de Zamboanga,Catherine Tan,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Loyal Raffle Player']",Lapsed,Lost
+2,2,7/23/2024 17:20,KCC Mall de Zamboanga,Mary Joy Mariwa,Yes,5.0007E+12,For personal AND business purchases,Yes,['Family-Oriented Mallgoer'],Transacting Users > May,Potential Loyalists
+3,3,7/16/2024 21:25,KCC Mall de Zamboanga,Lorna fe Alindoza Torricer ,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Promising
+4,4,7/16/2024 20:40,KCC Mall de Zamboanga,"Ybanez,Rosalyn B.",Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+5,5,7/24/2024 12:53,KCC Mall de Zamboanga,Maria Victoria Tompong,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Lapsed,Lost
+6,6,7/16/2024 18:54,KCC Mall de Zamboanga,Sitti sara paraji Basa,Yes,5.0007E+12,For personal purchases only,Yes,['Comfort Seeker'],Transacting Users > May,Lost
+7,7,7/24/2024 13:34,KCC Mall de Zamboanga,Marites A. Mariano,Yes,5.00007E+13,For personal purchases only,Yes,['Loyal Raffle Player'],Transacting Users > May,Lost
+8,8,7/17/2024 18:20,KCC Mall de Zamboanga,Merry Anna A. Sembrano,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+9,9,7/16/2024 19:41,KCC Mall de Zamboanga,Venice ann heyres,Yes,5.0007E+12,For personal purchases only,No,[],Transacting Users > May,Loyal Customers
+11,11,7/16/2024 18:35,KCC Mall de Zamboanga,Jocelyn S. Tanudra,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Recent Customers
+12,12,7/24/2024 12:43,KCC Mall de Zamboanga,Reschellynn Diane P. Limen,Yes,5E+11,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Transacting Users > May,Potential Loyalists
+13,13,7/24/2024 20:36,KCC Mall de Zamboanga,Noralyn sadain erijin,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Promising
+14,14,7/16/2024 20:49,KCC Mall de Zamboanga,Chris Charmaine D. Sirajan,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Potential Loyalists
+15,15,7/24/2024 11:31,KCC Mall de Zamboanga,Karryl Arbuez,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Lapsed,Lost
+16,16,7/24/2024 11:17,KCC Mall de Zamboanga,"Alejandro, Jorica Sher L.",Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Promising
+17,17,7/16/2024 20:09,KCC Mall de Zamboanga,Lexia Rose S. Julian,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+18,18,7/16/2024 19:57,KCC Mall de Zamboanga,Rowena Santos,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,At Risk
+19,19,7/16/2024 22:33,KCC Mall de Zamboanga,Marie Fe Evangelista ,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Loyal Customers
+20,20,7/16/2024 22:06,KCC Mall de Zamboanga,Shereeanne yu tiao,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,At Risk
+21,21,7/16/2024 17:49,KCC Mall de Zamboanga,Sonia Janani Sarabi ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+22,22,7/16/2024 19:45,KCC Mall de Zamboanga,Kristel Jayne S. Lim,Yes,5.0007E+12,For personal purchases only,Yes,['Loyal Raffle Player'],Lapsed,Potential Loyalists
+23,23,7/24/2024 14:16,KCC Mall de Zamboanga,Charlotte O. Owera,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Recent Customers
+24,24,7/16/2024 17:18,KCC Mall de Zamboanga,Gualberto A. Lantaya Jr.,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Lapsed,Loyal Customers
+25,25,7/16/2024 17:43,KCC Mall de Zamboanga,Joshua N. Comeros,Yes,5.0007E+12,For personal purchases only,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer']",Transacting Users > May,Promising
+26,26,7/16/2024 17:21,KCC Mall de Zamboanga,Arnajir J Saradi,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+27,27,7/24/2024 11:03,KCC Mall de Zamboanga,BADRIYA S. DOLIGUEZ,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Potential Loyalists
+28,28,7/16/2024 21:31,KCC Mall de Zamboanga,Ma Girlie F. Biri,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Lost
+29,29,7/16/2024 17:54,KCC Mall de Zamboanga,Ma. Concepcion L. Malaluan,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,At Risk
+30,30,7/17/2024 7:27,KCC Mall de Zamboanga,Fharhiya S. Saddalan,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Promising
+32,32,7/16/2024 20:55,KCC Mall de Zamboanga,Marian Lacno Laling,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Recent Customers
+33,33,7/24/2024 13:59,KCC Mall de Zamboanga,Jahziel D. Tuadles,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Loyal Raffle Player']",Lapsed,Lost
+34,34,7/16/2024 18:36,KCC Mall de Zamboanga,Jamila A. Yusop,Yes,5.0007E+12,For personal purchases only,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer']",Lapsed,Loyal Customers
+35,35,7/24/2024 11:32,KCC Mall de Zamboanga,Danica Rose L. Tubilla,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer']",Lapsed,Loyal Customers
+36,36,7/18/2024 9:54,KCC Mall de Zamboanga,Rashida T. Malik,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Recent Customers
+38,38,7/24/2024 11:06,KCC Mall de Zamboanga,Harsisa L. Kinang,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Lost
+40,40,7/16/2024 22:25,KCC Mall de Zamboanga,Aliah P Acolicol,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Lost
+42,42,7/16/2024 18:43,KCC Mall de Zamboanga,April Pearl G. Valiente ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Loyal Raffle Player']",Lapsed,Lost
+43,43,7/16/2024 18:35,KCC Mall de Zamboanga,Joshua J. Rubio,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+44,44,7/16/2024 22:05,KCC Mall de Zamboanga,Mariel M. Moncada,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Loyal Customers
+45,45,7/24/2024 11:33,KCC Mall de Zamboanga,MOHAMMAD KHAMMAR B. PALAHUDDIN ,Yes,5.0007E+13,For business purchases only (sari-sari store wholesale etc.),Yes,['Comfort Seeker'],Transacting Users > May,Lost
+46,46,7/16/2024 18:24,KCC Mall de Zamboanga,Julito M. Bedico Jr.,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+47,47,7/24/2024 11:49,KCC Mall de Zamboanga,Hanijane Reambonanza,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+48,48,7/24/2024 13:31,KCC Mall de Zamboanga,Margie C.Santos,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+49,49,7/16/2024 22:38,KCC Mall de Zamboanga,Faiza A. Hamid,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+50,50,7/24/2024 11:36,KCC Mall de Zamboanga,Sitti Mersam Apuaca,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Loyal Customers
+51,51,7/24/2024 11:14,KCC Mall de Zamboanga,Wendell J. Fajardo ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Transacting Users > May,Loyal Customers
+52,52,7/16/2024 19:33,KCC Mall de Zamboanga,Jesu mae B. Tee,Yes,5.0007E+12,For personal purchases only,No,"['Meticulous Shopper', 'Browsing Impulse Buyer']",Transacting Users > May,Lost
+53,53,7/16/2024 19:55,KCC Mall de Zamboanga,Norhaima H. Dapii,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Loyal Customers
+54,54,7/17/2024 15:32,KCC Mall de Zamboanga,Monawara S. Sali,Yes,5.0007E+12,For personal purchases only,Yes,['Comfort Seeker'],Lapsed,Promising
+55,55,7/16/2024 18:53,KCC Mall de Zamboanga,Ferda J. Jala,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Recent Customers
+56,56,7/16/2024 23:25,KCC Mall de Zamboanga,Jacquiline Racoma Espinosa,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Lost
+57,57,7/16/2024 18:59,KCC Mall de Zamboanga,FloryMae R. Acedo,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Loyal Customers
+58,58,7/24/2024 14:34,KCC Mall de Zamboanga,Ridzma A Ermido,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Lapsed,Loyal Customers
+59,59,7/24/2024 11:08,KCC Mall de Zamboanga,Al-Medzfar Arasain Alad ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+61,61,7/16/2024 19:32,KCC Mall de Zamboanga,Ummokhair Salicala ,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Lost
+63,63,7/16/2024 19:57,KCC Mall de Zamboanga,Majed L. Salih,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Lapsed,Recent Customers
+64,64,7/17/2024 23:34,KCC Mall de Zamboanga,Emily S. Barrios,Yes,5.0007E+12,For personal purchases only,Yes,['Comfort Seeker'],Lapsed,Lost
+65,65,7/16/2024 17:32,KCC Mall de Zamboanga,Ricky A. Galabin,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+66,66,7/24/2024 11:43,KCC Mall de Zamboanga,Harvey A. Polidario,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Promising
+67,67,7/17/2024 9:13,KCC Mall de Zamboanga,Farisa S. Kasim,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Comfort Seeker']",Lapsed,Lost
+68,68,7/24/2024 16:23,KCC Mall de Zamboanga,Princess Mae T. Sadalani ,Yes,5.0007E+12,For personal purchases only,No,[],Transacting Users > May,Promising
+69,69,7/24/2024 11:08,KCC Mall de Zamboanga,Ariane C. Abad,Yes,5.0007E+12,For personal purchases only,Yes,['Meticulous Shopper'],Lapsed,Recent Customers
+70,70,7/16/2024 17:51,KCC Mall de Zamboanga,Andrea Rejie Ann E. Anding,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Recent Customers
+73,73,7/24/2024 11:06,KCC Mall de Zamboanga,Joseph C Alido,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer']",Lapsed,Recent Customers
+74,74,7/16/2024 22:34,KCC Mall de Zamboanga,Sitti Haila A. Marad,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,At Risk
+75,75,7/16/2024 20:42,KCC Mall de Zamboanga,Charizze Monique V Daraug,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Need Attention
+76,76,7/16/2024 21:10,KCC Mall de Zamboanga,Sue Anne Y. Tiao ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Recent Customers
+77,77,7/16/2024 19:18,KCC Mall de Zamboanga,Jefre S Morandante ,Yes,5.00007E+13,For personal purchases only,Yes,[],Transacting Users > May,Promising
+78,78,7/16/2024 17:55,KCC Mall de Zamboanga,Rivalyn D. Atilano,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+79,79,7/16/2024 17:44,KCC Mall de Zamboanga,Mohammad Mahmoud J. Mutalib,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+80,80,7/24/2024 11:29,KCC Mall de Zamboanga,Nikka A. Bejerano,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Lapsed,Lost
+81,81,7/24/2024 14:11,KCC Mall de Zamboanga,Mujarni B. Samsal,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+82,82,7/20/2024 18:05,KCC Mall de Zamboanga,Maria Agnes Torlao ,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Transacting Users > May,At Risk
+83,83,7/16/2024 18:20,KCC Mall de Zamboanga,Geraldine B. Robles,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+85,85,7/17/2024 7:58,KCC Mall de Zamboanga,Aldasher A. Tawasil,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Loyal Customers
+87,87,7/16/2024 18:38,KCC Mall de Zamboanga,Jennifer L. Tubio,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+88,88,7/16/2024 18:08,KCC Mall de Zamboanga,Pilar Taño,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer']",Lapsed,Need Attention
+90,90,7/16/2024 21:36,KCC Mall de Zamboanga,Fadsmalyn S. Saliptuting,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+91,91,7/16/2024 17:23,KCC Mall de Zamboanga,Erickson Daniel P. Cabalida,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Recent Customers
+93,93,7/16/2024 18:10,KCC Mall de Zamboanga,ALIZON GAIL A. CAO,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Recent Customers
+95,95,7/16/2024 21:57,KCC Mall de Zamboanga,Colletenikol E. Hanginan ,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Loyal Customers
+96,96,7/17/2024 0:30,KCC Mall de Zamboanga,Reggie Anne A. Balan,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Promising
+97,97,7/16/2024 21:46,KCC Mall de Zamboanga,Rhia G. Chua,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Comfort Seeker']",Lapsed,Lost
+98,98,7/16/2024 22:47,KCC Mall de Zamboanga,Geraldine B. Kinang,Yes,5.0007E+12,For personal purchases only,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer']",Lapsed,Promising
+99,99,7/16/2024 21:25,KCC Mall de Zamboanga,Ma. Lolie Grace A. Tiate,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Lapsed,Recent Customers
+100,100,7/16/2024 17:18,KCC Mall de Zamboanga,Alhan L. Alih,Yes,5.0007E+12,For personal purchases only,No,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer']",Transacting Users > May,Lost
+101,101,7/16/2024 17:15,KCC Mall de Zamboanga,Kristine Claudine Mar,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Lapsed,Loyal Customers
+102,102,7/24/2024 12:30,KCC Mall de Zamboanga,Abegail B. Alemania ,Yes,5.0007E+12,For personal purchases only,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Recent Customers
+103,103,7/16/2024 19:27,KCC Mall de Zamboanga,Jernalyn Patrimonio,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Transacting Users > May,Loyal Customers
+104,104,7/24/2024 11:24,KCC Mall de Zamboanga,Ivy Jane M. Polidario,Yes,5.0007E+12,For personal purchases only,Yes,"['Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Recent Customers
+105,105,7/16/2024 23:41,KCC Mall de Zamboanga,Marjorie O. Angeles,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Promising
+106,106,7/23/2024 9:50,KCC Mall de Zamboanga,Jessie Obongen Jr. ,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Promising
+107,107,7/16/2024 21:30,KCC Mall de Zamboanga,Mary Anne T Clemente,Yes,5.0007E+12,For personal purchases only,Yes,"['Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Loyal Customers
+108,108,7/16/2024 17:31,KCC Mall de Zamboanga,Lester F. Del Rosario ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,At Risk
+109,109,7/16/2024 20:29,KCC Mall de Zamboanga,Honey Joyce F. Cadir ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+110,110,7/16/2024 17:32,KCC Mall de Zamboanga,Jezza joi belarga,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Lapsed,Recent Customers
+112,112,7/16/2024 17:39,KCC Mall de Zamboanga,Regine M. Valencia,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Lost
+114,114,7/16/2024 17:13,KCC Mall de Zamboanga,Sara Jane P. Sotto,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+115,115,7/24/2024 11:51,KCC Mall de Zamboanga,Jennifer S. Muharraji,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,[],Transacting Users > May,Recent Customers
+116,116,7/17/2024 12:27,KCC Mall de Zamboanga,Fernando Tristan E. Hawari,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer']",Lapsed,Recent Customers
+117,117,7/17/2024 5:30,KCC Mall de Zamboanga,Leni Arisha Aras,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Loyal Customers
+118,118,7/16/2024 17:32,KCC Mall de Zamboanga,Patricia Kae P. Saceda ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,At Risk
+119,119,7/17/2024 0:53,KCC Mall de Zamboanga,Laura Jane A. De Asis,Yes,5.0007E+12,For personal purchases only,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer']",Lapsed,Loyal Customers
+120,120,7/24/2024 22:15,KCC Mall de Zamboanga,Retcheel B. Hererra,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Loyal Raffle Player']",Lapsed,Promising
+121,121,7/16/2024 17:57,KCC Mall de Zamboanga,Rhayda B. Tapsi,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Transacting Users > May,Promising
+122,122,7/16/2024 18:56,KCC Mall de Zamboanga,monica lingcon,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Potential Loyalists
+123,123,7/17/2024 16:12,KCC Mall de Zamboanga,Hiezle Grace B. Malatabon,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer']",Transacting Users > May,Loyal Customers
+124,124,7/17/2024 20:45,KCC Mall de Zamboanga,Munierva M. Alijam ,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Promising
+125,125,7/16/2024 17:42,KCC Mall de Zamboanga,Elemay fernandez,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Transacting Users > May,Loyal Customers
+126,126,7/24/2024 13:14,KCC Mall de Zamboanga,ANNLIE T. GAGANTING CRUZ,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Lapsed,Lost
+127,127,7/16/2024 17:21,KCC Mall de Zamboanga,Alexander P. Igasan,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Comfort Seeker']",Transacting Users > May,Recent Customers
+128,128,7/24/2024 11:08,KCC Mall de Zamboanga,Honey Mae Lascuña Umpar,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+129,129,7/16/2024 22:33,KCC Mall de Zamboanga,Arlene D. Jimenez,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+130,130,7/16/2024 22:28,KCC Mall de Zamboanga,jona P. midallo,Yes,5.0007E+11,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Transacting Users > May,Lost
+131,131,7/17/2024 0:18,KCC Mall de Zamboanga,Melanie Salazar Jubaira ,Yes,5.0007E+12,For personal AND business purchases,Yes,['Family-Oriented Mallgoer'],Lapsed,Promising
+132,132,7/24/2024 11:42,KCC Mall de Zamboanga,Christel S. Lechadores,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,At Risk
+133,133,7/16/2024 17:11,KCC Mall de Zamboanga,Nihma L. Abdurahim,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Promising
+134,134,7/24/2024 22:31,KCC Mall de Zamboanga,Romel T. Gonzales,Yes,5.0007E+12,For personal purchases only,Yes,['Loyal Raffle Player'],Lapsed,Loyal Customers
+135,135,7/16/2024 19:45,KCC Mall de Zamboanga,Aileen Mae S. Lim,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer']",Lapsed,At Risk
+136,136,7/17/2024 14:10,KCC Mall de Zamboanga,Dorina S Baddiri ,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,At Risk
+137,137,7/24/2024 11:07,KCC Mall de Zamboanga,Jenzorine Tulawie,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+138,138,7/16/2024 18:41,KCC Mall de Zamboanga,Aiza M. Amiril,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Recent Customers
+139,139,7/24/2024 11:08,KCC Mall de Zamboanga,Jemarie L. Taglinao,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Loyal Customers
+140,140,7/19/2024 17:03,KCC Mall de Zamboanga,Genise M Tacang,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+141,141,7/16/2024 18:33,KCC Mall de Zamboanga,Cherlene Joy M. Mabilog,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Loyal Customers
+142,142,7/16/2024 17:22,KCC Mall de Zamboanga,Marydel A. Tinay,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Loyal Raffle Player']",Transacting Users > May,Promising
+143,143,7/16/2024 19:53,KCC Mall de Zamboanga,Reymark Lorenzo natividad ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Lost
+144,144,7/24/2024 14:50,KCC Mall de Zamboanga,Jileanne Raven Moya,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Loyal Customers
+145,145,7/24/2024 14:06,KCC Mall de Zamboanga,"Calunsag, Ma Suzanne Cris",Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Lost
+147,147,7/16/2024 17:37,KCC Mall de Zamboanga,Clarvie Mae Mariano,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Promising
+148,148,7/16/2024 21:45,KCC Mall de Zamboanga,Mary Grace G. Atilano,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Loyal Customers
+149,149,7/24/2024 12:02,KCC Mall de Zamboanga,Hariza J. Abdulgani,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Lost
+150,150,7/16/2024 22:09,KCC Mall de Zamboanga,ADRIANA JOY BALTAZAR DACUMOS,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Lost
+151,151,7/24/2024 12:29,KCC Mall de Zamboanga,Charmina S. Biri,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Comfort Seeker']",Lapsed,Lost
+152,152,7/16/2024 20:20,KCC Mall de Zamboanga,Rachaelyn B. Castor,Yes,5.00007E+13,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Need Attention
+153,153,7/17/2024 22:17,KCC Mall de Zamboanga,Crishield D. Dumdum,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Loyal Customers
+154,154,7/16/2024 17:53,KCC Mall de Zamboanga,Fely Ann C. Gaganting,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Transacting Users > May,Lost
+155,155,7/17/2024 18:01,KCC Mall de Zamboanga,Sherehan D. Digandang,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+156,156,7/24/2024 11:09,KCC Mall de Zamboanga,Jonessa G. Hamis,Yes,5.007E+11,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Potential Loyalists
+157,157,7/16/2024 18:33,KCC Mall de Zamboanga,Angeline S. Parado,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,[],Lapsed,Loyal Customers
+158,158,7/18/2024 16:09,KCC Mall de Zamboanga,Jenelyn S. Hortilano ,Yes,5.0007E+12,For personal purchases only,Yes,['Loyal Raffle Player'],Transacting Users > May,At Risk
+159,159,7/24/2024 17:36,KCC Mall de Zamboanga,Rhai-han A. Barahama,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Lapsed,Promising
+160,160,7/24/2024 12:11,KCC Mall de Zamboanga,Rose Ann L Jimenez,Yes,5.0007E+13,For personal purchases only,Yes,[],Transacting Users > May,Promising
+161,161,7/16/2024 20:38,KCC Mall de Zamboanga,Muiza S. Pangambayan,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Lost
+162,162,7/16/2024 21:14,KCC Mall de Zamboanga,Jaycel M. Escultor ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Promising
+163,163,7/24/2024 13:45,KCC Mall de Zamboanga,James Carlo R. Carpitanos,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Lost
+164,164,7/16/2024 19:36,KCC Mall de Zamboanga,RHAIZA T. BUCOY,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Lost
+165,165,7/16/2024 17:59,KCC Mall de Zamboanga,Myra suzette lee jalon,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+166,166,7/16/2024 17:52,KCC Mall de Zamboanga,Emma Flor T. Sanico,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Loyal Customers
+167,167,7/16/2024 21:14,KCC Mall de Zamboanga,Karen B. abendan,Yes,5.0007E+12,For personal purchases only,Yes,['Loyal Raffle Player'],Transacting Users > May,Lost
+168,168,7/17/2024 2:57,KCC Mall de Zamboanga,Marinel A. Tinay,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,At Risk
+169,169,7/24/2024 11:03,KCC Mall de Zamboanga,Anna Trixie Fabriga,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+170,170,7/17/2024 1:57,KCC Mall de Zamboanga,Schahidzkarl D. Adjul,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Promising
+173,173,7/16/2024 17:49,KCC Mall de Zamboanga,Gay B. Satumbaga,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Lost
+174,174,7/17/2024 8:41,KCC Mall de Zamboanga,Maricel S. Peralta,Yes,5.0007E+12,For personal purchases only,Yes,"['Meticulous Shopper', 'Comfort Seeker']",Lapsed,At Risk
+175,175,7/16/2024 22:31,KCC Mall de Zamboanga,Kennie Grace Araneta,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Comfort Seeker']",Lapsed,Loyal Customers
+176,176,7/16/2024 20:34,KCC Mall de Zamboanga,Jenifer Tulawi,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+177,177,7/24/2024 12:25,KCC Mall de Zamboanga,Ashley Nicole D. Marcial,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,At Risk
+178,178,7/16/2024 17:45,KCC Mall de Zamboanga,Richard Palomares Jr,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Loyal Customers
+179,179,7/16/2024 18:51,KCC Mall de Zamboanga,Joshua B. Tan,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer']",Lapsed,Promising
+180,180,7/16/2024 17:36,KCC Mall de Zamboanga,ALEAH D. TOBIAS,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Promising
+181,181,7/24/2024 12:25,KCC Mall de Zamboanga,Mary lady Justine Villegas,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Transacting Users > May,Promising
+182,182,7/24/2024 11:04,KCC Mall de Zamboanga,Jessa Mae Cabato Ansao,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Need Attention
+183,183,7/16/2024 18:47,KCC Mall de Zamboanga,Rachel C. Natividad,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer']",Lapsed,At Risk
+184,184,7/24/2024 12:10,KCC Mall de Zamboanga,Raizha bonilla,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+185,185,7/16/2024 18:52,KCC Mall de Zamboanga,Archie V. Cristobal ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+186,186,7/24/2024 21:43,KCC Mall de Zamboanga,Melvar Lakkian Majid,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+187,187,7/16/2024 17:18,KCC Mall de Zamboanga,Edward Balasabas Adrias,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Lapsed,Promising
+188,188,7/16/2024 21:45,KCC Mall de Zamboanga,Helen H. Monticalbo,Yes,2.85001E+14,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Potential Loyalists
+189,189,7/16/2024 18:39,KCC Mall de Zamboanga,Jay Dane F. Pabon,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer']",Lapsed,Recent Customers
+190,190,7/16/2024 19:05,KCC Mall de Zamboanga,Krishel Erra,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Lost
+191,191,7/18/2024 11:37,KCC Mall de Zamboanga,Annual M. Kissaie,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Potential Loyalists
+192,192,7/16/2024 17:49,KCC Mall de Zamboanga,Kristina Casandra Fernandez ,Yes,5.0007E+12,For personal purchases only,Yes,['Comfort Seeker'],Lapsed,Loyal Customers
+193,193,7/16/2024 17:10,KCC Mall de Zamboanga,Edsel Anne O. Malcampo ,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+194,194,7/16/2024 19:14,KCC Mall de Zamboanga,Jonna-Bhel Polvorosa,Yes,5.0007E+12,For personal purchases only,Yes,['Comfort Seeker'],Lapsed,At Risk
+195,195,7/17/2024 10:53,KCC Mall de Zamboanga,Eubry P. Jorolan,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+196,196,7/24/2024 11:51,KCC Mall de Zamboanga,Edelyn Rabago ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Comfort Seeker']",Lapsed,Need Attention
+197,197,7/17/2024 7:06,KCC Mall de Zamboanga,Satrina S Garcia,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Loyal Customers
+199,199,7/17/2024 1:48,KCC Mall de Zamboanga,Roshel Apolinario ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer']",Lapsed,Recent Customers
+200,200,7/17/2024 16:38,KCC Mall de Zamboanga,Maria Antonette E. Atoc,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Need Attention
+201,201,7/16/2024 20:38,KCC Mall de Zamboanga,Jaybee Alvarez Marcial ,Yes,5.0007E+12,For personal purchases only,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer']",Lapsed,Potential Loyalists
+202,202,7/16/2024 23:33,KCC Mall de Zamboanga,Arianne Joy D. Ventura,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Lost
+203,203,7/24/2024 12:29,KCC Mall de Zamboanga,Joselito N. Indino,Yes,5.0007E+12,For personal purchases only,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer']",Lapsed,Loyal Customers
+204,204,7/16/2024 19:36,KCC Mall de Zamboanga,Reynant D. Casidsid,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer']",Lapsed,Lost
+205,205,7/16/2024 17:29,KCC Mall de Zamboanga,Glennson J. Taji,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Potential Loyalists
+206,206,7/17/2024 14:18,KCC Mall de Zamboanga,JESSER L HARUN ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+207,207,7/16/2024 21:03,KCC Mall de Zamboanga,Marwina S. Kahal ,Yes,5.0007E+12,For personal purchases only,Yes,['Meticulous Shopper'],Lapsed,Lost
+209,209,7/16/2024 21:23,KCC Mall de Zamboanga,Shermalyn A. Sakiral,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Lost
+210,210,7/16/2024 19:28,KCC Mall de Zamboanga,Rosheil Bangayan,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+211,211,7/16/2024 17:50,KCC Mall de Zamboanga,Kaye A. Miranda,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+212,212,7/17/2024 23:42,KCC Mall de Zamboanga,Ma. Therese S. Barrios,Yes,5.0007E+12,For personal purchases only,Yes,['Comfort Seeker'],Lapsed,Recent Customers
+213,213,7/16/2024 19:18,KCC Mall de Zamboanga,Genesee T. Echavia,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+214,214,7/24/2024 13:06,KCC Mall de Zamboanga,ROQQAYA D. SAPPAYANI,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Lost
+215,215,7/16/2024 20:53,KCC Mall de Zamboanga,Ethelyn C. Pandaog,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Promising
+216,216,7/16/2024 17:50,KCC Mall de Zamboanga,Charmaine L. Alamia,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Loyal Raffle Player']",Transacting Users > May,Recent Customers
+217,217,7/16/2024 22:48,KCC Mall de Zamboanga,AL-BASHEER ABDILLA ,Yes,2.95001E+14,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Transacting Users > May,Potential Loyalists
+218,218,7/24/2024 19:56,KCC Mall de Zamboanga,Angel Kaye Rizaldo ,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Comfort Seeker']",Lapsed,Recent Customers
+220,220,7/16/2024 19:04,KCC Mall de Zamboanga,Nursida U. Abdusali,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Lost
+221,221,7/16/2024 20:31,KCC Mall de Zamboanga,Proculo Francisco ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Potential Loyalists
+222,222,7/24/2024 11:27,KCC Mall de Zamboanga,Wilhelmina Madamba,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Transacting Users > May,Recent Customers
+223,223,7/16/2024 18:39,KCC Mall de Zamboanga,KHADIJAH A. JALANG,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Loyal Customers
+224,224,7/16/2024 17:30,KCC Mall de Zamboanga,Beryl Bolivar Del Pilar,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Lost
+225,225,7/24/2024 18:15,KCC Mall de Zamboanga,Maxcherlan C. Marco,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Promising
+226,226,7/16/2024 20:36,KCC Mall de Zamboanga,Cherry Mae G. Columbres,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Promising
+227,227,7/16/2024 18:04,KCC Mall de Zamboanga,Joshua Ecot,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Meticulous Shopper', 'Comfort Seeker']",Lapsed,Lost
+228,228,7/16/2024 20:57,KCC Mall de Zamboanga,Edlyn Marcial,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Recent Customers
+229,229,7/16/2024 23:16,KCC Mall de Zamboanga,Kaye C. Obag,Yes,5.0007E+12,For personal AND business purchases,Yes,['Meticulous Shopper'],Transacting Users > May,Need Attention
+230,230,7/25/2024 7:48,KCC Mall de Zamboanga,Kristel Joy A. Buscas,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+231,231,7/24/2024 12:12,KCC Mall de Zamboanga,Arnette Rose Kunnang Rull ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+232,232,7/16/2024 19:19,KCC Mall de Zamboanga,Michel A. White,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+233,233,7/16/2024 17:23,KCC Mall de Zamboanga,Aljon R.Luciano,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+234,234,7/16/2024 21:28,KCC Mall de Zamboanga,Verdeflor D. Uy,Yes,5.0007E+12,For personal purchases only,Yes,['Meticulous Shopper'],Lapsed,Recent Customers
+235,235,7/16/2024 18:55,KCC Mall de Zamboanga,"Colico, Anthony B.",Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+236,236,7/16/2024 23:30,KCC Mall de Zamboanga,Frama Intan A Miguel,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Transacting Users > May,Loyal Customers
+237,237,7/24/2024 12:48,KCC Mall de Zamboanga,Faizal,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,At Risk
+238,238,7/24/2024 12:20,KCC Mall de Zamboanga,Nikka J. Diman,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Lapsed,At Risk
+239,239,7/24/2024 11:11,KCC Mall de Zamboanga,Lorraine Ann Y. Tan,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Lost
+240,240,7/17/2024 14:38,KCC Mall de Zamboanga,Daryl A. Apali,Yes,5.0007E+12,For personal purchases only,Yes,"['Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+241,241,7/17/2024 9:26,KCC Mall de Zamboanga,Julhadam M Jumsali Jr,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Potential Loyalists
+242,242,7/17/2024 10:40,KCC Mall de Zamboanga,Maricor De Mesa Devesfruto,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Comfort Seeker']",Transacting Users > May,Potential Loyalists
+244,244,7/16/2024 18:43,KCC Mall de Zamboanga,Jennifer Francisco Hugo,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Promising
+245,245,7/24/2024 13:02,KCC Mall de Zamboanga,Sharen Princess R. Coronel,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Transacting Users > May,Recent Customers
+246,246,7/16/2024 21:19,KCC Mall de Zamboanga,Gwyneth T. Rabago ,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Promising
+248,248,7/16/2024 17:56,KCC Mall de Zamboanga,AIRA MAE A. SAHIDJUAN,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Lapsed,Lost
+249,249,7/24/2024 12:04,KCC Mall de Zamboanga,Joyce Alta ,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Promising
+250,250,7/16/2024 23:45,KCC Mall de Zamboanga,Sumiyyah P. Salapuddin,Yes,5.0007E+12,For personal AND business purchases,Yes,['Comfort Seeker'],Lapsed,Lost
+251,251,7/16/2024 17:40,KCC Mall de Zamboanga,Daisy Claire J. Bartolome ,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Promising
+252,252,7/16/2024 19:20,KCC Mall de Zamboanga,Armando Asan,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Loyal Raffle Player']",Transacting Users > May,Promising
+253,253,7/16/2024 20:44,KCC Mall de Zamboanga,Nurunniza A.Kalayakan,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Lapsed,Promising
+254,254,7/18/2024 8:23,KCC Mall de Zamboanga,Mary Jane U. Kissaie,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Loyal Customers
+255,255,7/16/2024 21:40,KCC Mall de Zamboanga,Genevieve Ahamad,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,[],Transacting Users > May,Promising
+257,257,7/16/2024 20:04,KCC Mall de Zamboanga,Rhei Anne P. Cruz,Yes,5.0007E+12,For personal purchases only,Yes,"['Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Promising
+258,258,7/24/2024 12:12,KCC Mall de Zamboanga,Farha J. Laja,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Lapsed,Lost
+259,259,7/16/2024 17:56,KCC Mall de Zamboanga,Melissa C. Belandres ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Lost
+260,260,7/16/2024 19:16,KCC Mall de Zamboanga,Milhaida harani,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Loyal Customers
+261,261,7/24/2024 18:36,KCC Mall de Zamboanga,Fritzy Ley A. Reyes,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Loyal Raffle Player']",Lapsed,At Risk
+262,262,7/16/2024 22:29,KCC Mall de Zamboanga,Khryss Leandy N..Ajon,Yes,5.0007E+12,For personal purchases only,Yes,['Loyal Raffle Player'],Lapsed,Loyal Customers
+263,263,7/25/2024 2:17,KCC Mall de Zamboanga,Roline Fernando - Garcia ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+264,264,7/24/2024 12:39,KCC Mall de Zamboanga,Gladys Grace Diplon Vicente,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Recent Customers
+265,265,7/24/2024 11:29,KCC Mall de Zamboanga,Mary krissel C. Manabat,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer']",Lapsed,Lost
+266,266,7/17/2024 17:26,KCC Mall de Zamboanga,Jimhar B. Ajijul,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+267,267,7/24/2024 11:44,KCC Mall de Zamboanga,Yvonne Grace T. Dondoyano,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+268,268,7/16/2024 19:02,KCC Mall de Zamboanga,Kreesha Lean Del Rosario,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Lapsed,Lost
+269,269,7/16/2024 18:23,KCC Mall de Zamboanga,May ann T. Ubag,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Loyal Customers
+270,270,7/16/2024 17:44,KCC Mall de Zamboanga,Dharyl Joy D. Ling,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+271,271,7/17/2024 9:35,KCC Mall de Zamboanga,John Mark D. Solidum,Yes,5.0007E+12,For personal purchases only,Yes,['Comfort Seeker'],Transacting Users > May,Promising
+273,273,7/16/2024 17:35,KCC Mall de Zamboanga,JUVY M. GUERRERO ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Lost
+274,274,7/17/2024 9:26,KCC Mall de Zamboanga,Rosaine Guerzon ,Yes,5.0007E+12,For personal AND business purchases,Yes,['Family-Oriented Mallgoer'],Lapsed,Loyal Customers
+275,275,7/16/2024 17:37,KCC Mall de Zamboanga,Rosaida Usman,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Recent Customers
+276,276,7/16/2024 18:34,KCC Mall de Zamboanga,Nurfaida Hussin Sali,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Promising
+277,277,7/16/2024 22:33,KCC Mall de Zamboanga,LEA QUILLA,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+278,278,7/17/2024 14:37,KCC Mall de Zamboanga,Alvin Viduya De Guzman,Yes,5.0007E+12,For personal AND business purchases,Yes,['Browsing Impulse Buyer'],Transacting Users > May,Lost
+279,279,7/24/2024 11:26,KCC Mall de Zamboanga,Wendy Bermejo ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Lapsed,Promising
+280,280,7/16/2024 22:07,KCC Mall de Zamboanga,Fatima Aseya L. Idjilani,Yes,5.0007E+12,For personal purchases only,Yes,['Loyal Raffle Player'],Lapsed,Loyal Customers
+281,281,7/16/2024 17:58,KCC Mall de Zamboanga,Arianne Rose Asanulla,Yes,5.00007E+13,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer']",Transacting Users > May,Promising
+282,282,7/19/2024 19:10,KCC Mall de Zamboanga,Fateme Noor Shanaa T. Khan ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+283,283,7/24/2024 15:00,KCC Mall de Zamboanga,Walid R. Ho,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Lost
+284,284,7/16/2024 17:37,KCC Mall de Zamboanga,Albibar  Hasan Sarabe,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Promising
+285,285,7/16/2024 17:52,KCC Mall de Zamboanga,Khaira Aneesa D. Serabani,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Loyal Raffle Player']",Transacting Users > May,Lost
+286,286,7/16/2024 17:45,KCC Mall de Zamboanga,Rosibel C. Roldan,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,At Risk
+287,287,7/16/2024 19:05,KCC Mall de Zamboanga,Medzfar Wahid Handang,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Loyal Customers
+288,288,7/18/2024 23:07,KCC Mall de Zamboanga,Donna Tiffany Q. Solis,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Transacting Users > May,Loyal Customers
+289,289,7/16/2024 17:47,KCC Mall de Zamboanga,SHIARA MAE S. ADJULA,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+290,290,7/24/2024 11:56,KCC Mall de Zamboanga,Chanda B. Villareal ,Yes,5.0007E+12,For personal AND business purchases,Yes,['Family-Oriented Mallgoer'],Lapsed,Loyal Customers
+291,291,7/16/2024 17:24,KCC Mall de Zamboanga,Kayttie C. Esperat ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+292,292,7/16/2024 19:26,KCC Mall de Zamboanga,Mary Joy  A Tapales,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Recent Customers
+293,293,7/16/2024 21:11,KCC Mall de Zamboanga,Rea Mae Baguio,Yes,5.0007E+12,For personal AND business purchases,Yes,['Browsing Impulse Buyer'],Transacting Users > May,Promising
+294,294,7/16/2024 22:21,KCC Mall de Zamboanga,Xeennah Pauline Estrada,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Loyal Customers
+295,295,7/16/2024 17:11,KCC Mall de Zamboanga,Siti Nur-Afiqah Amil,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,At Risk
+296,296,7/24/2024 12:19,KCC Mall de Zamboanga,Florence Solis Ricarda,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+297,297,7/16/2024 19:51,KCC Mall de Zamboanga,Janice Guiroy,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Need Attention
+298,298,7/24/2024 11:04,KCC Mall de Zamboanga,Joie T.Rillera,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+299,299,7/24/2024 14:56,KCC Mall de Zamboanga,Jimmary B. Meot,Yes,5.0007E+12,For personal AND business purchases,Yes,['Browsing Impulse Buyer'],Lapsed,Lost
+300,300,7/16/2024 21:12,KCC Mall de Zamboanga,Jefmarie T. Cofino,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Recent Customers
+301,301,7/16/2024 20:05,KCC Mall de Zamboanga,Reymard C. Surbano,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+302,302,7/16/2024 19:17,KCC Mall de Zamboanga,Nyle Ian Cerna,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Comfort Seeker']",Lapsed,Loyal Customers
+303,303,7/24/2024 12:42,KCC Mall de Zamboanga,Marose Delos Santos,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+304,304,7/24/2024 11:51,KCC Mall de Zamboanga,jaimee camille wee abdon,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+305,305,7/24/2024 11:36,KCC Mall de Zamboanga,Juvy Claros,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Transacting Users > May,Lost
+306,306,7/16/2024 17:51,KCC Mall de Zamboanga,Rouel Quilantang ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Lost
+307,307,7/16/2024 21:18,KCC Mall de Zamboanga,Jasmin H Dapulan,Yes,5.0007E+12,For personal purchases only,Yes,['Meticulous Shopper'],Lapsed,Lost
+308,308,7/16/2024 19:17,KCC Mall de Zamboanga,Annelle L. ALvarez,Yes,5.0007E+12,For personal AND business purchases,Yes,['Family-Oriented Mallgoer'],Lapsed,Promising
+309,309,7/24/2024 13:00,KCC Mall de Zamboanga,Nur-Asekin E. Ibnohaji,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Transacting Users > May,Lost
+311,311,7/16/2024 21:58,KCC Mall de Zamboanga,Mohammad Nasar A. Lintasan,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+312,312,7/16/2024 21:29,KCC Mall de Zamboanga,Armina A. Aldam,Yes,5.0007E+12,For personal purchases only,No,[],Lapsed,Loyal Customers
+313,313,7/16/2024 21:28,KCC Mall de Zamboanga,Roselle crisostomo,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Lost
+314,314,7/16/2024 20:01,KCC Mall de Zamboanga,Merhira H. Asaral,Yes,5.0007E+12,For personal purchases only,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Loyal Customers
+316,316,7/17/2024 9:59,KCC Mall de Zamboanga,May Ramos,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Recent Customers
+317,317,7/16/2024 17:32,KCC Mall de Zamboanga,Hanson S. Quijano ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Potential Loyalists
+318,318,7/24/2024 19:09,KCC Mall de Zamboanga,SHARMAINE B. ABAO,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Loyal Customers
+319,319,7/24/2024 12:38,KCC Mall de Zamboanga,Mushayra J. Tiblani,Yes,5.0007E+12,For personal purchases only,Yes,"['Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Promising
+320,320,7/16/2024 18:37,KCC Mall de Zamboanga,Alvin F. Santiago,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+321,321,7/17/2024 9:45,KCC Mall de Zamboanga,Kenjie Ron Torres sr. ,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Recent Customers
+322,322,7/16/2024 22:24,KCC Mall de Zamboanga,John Angelo Anopol ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+323,323,7/16/2024 19:26,KCC Mall de Zamboanga,Fe Marie Custodio,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper']",Lapsed,Lost
+324,324,7/16/2024 18:02,KCC Mall de Zamboanga,Antonia C. Gaganting,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Recent Customers
+325,325,7/16/2024 20:42,KCC Mall de Zamboanga,Gianne T. Gregorio,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Promising
+326,326,7/19/2024 1:25,KCC Mall de Zamboanga,hapisa abubakar,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+327,327,7/16/2024 19:09,KCC Mall de Zamboanga,Margie L. Villamor,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,At Risk
+328,328,7/16/2024 19:03,KCC Mall de Zamboanga,Jessiemae R. Alejandro,Yes,5.0007E+12,For personal purchases only,Yes,"['Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+329,329,7/16/2024 18:25,KCC Mall de Zamboanga,Roseller L. Fiel,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Potential Loyalists
+330,330,7/16/2024 22:18,KCC Mall de Zamboanga,Shaine Mitzi Amparado,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Recent Customers
+331,331,7/24/2024 18:10,KCC Mall de Zamboanga,Kassandra S. Morado,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+332,332,7/24/2024 12:21,KCC Mall de Zamboanga,Jose Leandro O. Aramal,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Need Attention
+333,333,7/17/2024 9:06,KCC Mall de Zamboanga,Joana Marie P Lerio,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+334,334,7/16/2024 18:43,KCC Mall de Zamboanga,Camille Victoria D. Solon,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Loyal Customers
+336,336,7/16/2024 18:08,KCC Mall de Zamboanga,Charmagne Ross C. Arquiza,Yes,5.0007E+12,For personal purchases only,Yes,['Loyal Raffle Player'],Lapsed,Lost
+337,337,7/17/2024 1:22,KCC Mall de Zamboanga,Ridzmalyn J. Aripin ,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Comfort Seeker']",Lapsed,Loyal Customers
+338,338,7/16/2024 20:14,KCC Mall de Zamboanga,Krystal S. Viloria,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+339,339,7/16/2024 17:57,KCC Mall de Zamboanga,Cherry D. Aldenese ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+340,340,7/16/2024 17:13,KCC Mall de Zamboanga,Cherry may c minay,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Lost
+341,341,7/16/2024 17:50,KCC Mall de Zamboanga,Nawisa U. Omar,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,[],Transacting Users > May,Promising
+342,342,7/16/2024 17:46,KCC Mall de Zamboanga,Shireen K. Raden ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+343,343,7/20/2024 7:00,KCC Mall de Zamboanga,Jeaneth A. Tabar,Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Transacting Users > May,Loyal Customers
+344,344,7/16/2024 17:39,KCC Mall de Zamboanga,Raseda j harun,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer']",Lapsed,Recent Customers
+345,345,7/16/2024 22:06,KCC Mall de Zamboanga,JUSTINE JULY T. TIAMSING ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+346,346,7/18/2024 9:43,KCC Mall de Zamboanga,Nur limpasan hashim,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,[],Lapsed,Lost
+347,347,7/16/2024 17:08,KCC Mall de Zamboanga,Mark Anthony Mesiona,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,At Risk
+348,348,7/17/2024 3:07,KCC Mall de Zamboanga,Gladys G. Concepcion ,Yes,5.0007E+12,For personal purchases only,Yes,['Family-Oriented Mallgoer'],Lapsed,Lost
+349,349,7/16/2024 17:25,KCC Mall de Zamboanga,Rena P Matoguina,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,Lost
+350,350,7/16/2024 18:08,KCC Mall de Zamboanga,Mylen E. Entia ,Yes,5.0007E+12,For personal purchases only,Yes,['Comfort Seeker'],Lapsed,Lost
+351,351,7/16/2024 19:53,KCC Mall de Zamboanga,ARDIN FAUJIAN GADDULA,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,At Risk
+352,352,7/20/2024 21:29,KCC Mall de Zamboanga,Jose adonis d barrios,Yes,5.0007E+12,For personal AND business purchases,Yes,[],Lapsed,Recent Customers
+353,353,7/16/2024 18:00,KCC Mall de Zamboanga,Antonio A. Lumawas ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Comfort Seeker']",Lapsed,Recent Customers
+354,354,7/18/2024 0:41,KCC Mall de Zamboanga,Jose Anthony S. Barrios,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+355,355,7/16/2024 20:24,KCC Mall de Zamboanga,Imelda Mustapa,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Promising
+356,356,7/17/2024 23:10,KCC Mall de Zamboanga,Christian Mark A. Evangelio ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Lapsed,Loyal Customers
+357,357,7/16/2024 23:41,KCC Mall de Zamboanga,Crystal Rheene T. Avanzado,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Loyal Customers
+358,358,7/24/2024 11:23,KCC Mall de Zamboanga,KHADEEJA HAIRUL MOHAMMAD ,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,[],Lapsed,Recent Customers
+359,359,7/25/2024 8:03,KCC Mall de Zamboanga,April V. Martizano,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Recent Customers
+360,360,7/16/2024 19:47,KCC Mall de Zamboanga,Patnuharda P. Sahid,Yes,5.0007E+12,For personal purchases only,Yes,"['Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Lost
+361,361,7/17/2024 8:25,KCC Mall de Zamboanga,Jehan N. Hasim,Yes,5.0007E+12,For business purchases only (sari-sari store wholesale etc.),Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Recent Customers
+363,363,7/16/2024 18:29,KCC Mall de Zamboanga,Ella Mae Lozada,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,At Risk
+366,366,7/16/2024 21:21,KCC Mall de Zamboanga,Lizamay Andico Quijano,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+367,367,7/16/2024 20:33,KCC Mall de Zamboanga,Edelyn T. Rabago ,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer']",Lapsed,Need Attention
+368,368,7/24/2024 12:09,KCC Mall de Zamboanga,Christian P. Delcoro,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Potential Loyalists
+369,369,7/25/2024 0:10,KCC Mall de Zamboanga,Shaira Joy J. Villamil,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+370,370,7/16/2024 21:43,KCC Mall de Zamboanga,Francis santiago garcia,Yes,5.0007E+12,For personal purchases only,Yes,"['Browsing Impulse Buyer', 'Comfort Seeker']",Lapsed,Recent Customers
+371,371,7/16/2024 17:55,KCC Mall de Zamboanga,Juvy Grace Llanes,Yes,5.00007E+13,For personal purchases only,Yes,"['Browsing Impulse Buyer', 'Comfort Seeker']",Transacting Users > May,Recent Customers
+372,372,7/16/2024 20:45,KCC Mall de Zamboanga,Ivy L. Trinidad ,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Lost
+373,373,7/17/2024 9:53,KCC Mall de Zamboanga,Michelle Lin Lim Hilayo ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+374,374,7/16/2024 17:47,KCC Mall de Zamboanga,Clory mae P. Erro,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player', 'Comfort Seeker']",Transacting Users > May,Potential Loyalists
+375,375,7/16/2024 19:35,KCC Mall de Zamboanga,Laureen P Baguioro ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,At Risk
+376,376,7/16/2024 19:41,KCC Mall de Zamboanga,Mart-A M. Cabayacruz,Yes,5.0007E+12,For personal purchases only,Yes,['Comfort Seeker'],Transacting Users > May,Loyal Customers
+379,379,7/16/2024 20:39,KCC Mall de Zamboanga,Stephanie Jane Fabian,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Loyal Raffle Player']",Lapsed,At Risk
+380,380,7/16/2024 22:57,KCC Mall de Zamboanga,Riza Jane S. Alihassan,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Recent Customers
+382,382,7/16/2024 18:45,KCC Mall de Zamboanga,Anthony A. Castro ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Lost
+384,384,7/16/2024 23:46,KCC Mall de Zamboanga,Fajada L. Indalmani,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Lost
+385,385,7/16/2024 17:54,KCC Mall de Zamboanga,Romaina A. Taji,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+386,386,7/24/2024 11:49,KCC Mall de Zamboanga,Rhea Mae Figuroa ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+387,387,7/18/2024 23:25,KCC Mall de Zamboanga,Dave Angeles Molina,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Promising
+388,388,7/19/2024 18:29,KCC Mall de Zamboanga,Eid Raheem A. Jadjuli,Yes,5.0007E+12,For personal purchases only,Yes,"['Meticulous Shopper', 'Browsing Impulse Buyer']",Transacting Users > May,At Risk
+390,390,7/17/2024 7:39,KCC Mall de Zamboanga,Joana Tongco,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Potential Loyalists
+391,391,7/17/2024 8:54,KCC Mall de Zamboanga,Roselyn R. Dela Cruz,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Loyal Customers
+392,392,7/17/2024 9:12,KCC Mall de Zamboanga,Gerry vie e. Errea,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Lapsed,Recent Customers
+393,393,7/16/2024 20:48,KCC Mall de Zamboanga,Ahmed Jasmil A. Haddimah ,Yes,5.0007E+12,For personal purchases only,Yes,[],Lapsed,Recent Customers
+395,395,7/16/2024 18:50,KCC Mall de Zamboanga,"Ruste, Alrish A.",Yes,5.0007E+12,For personal AND business purchases,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Transacting Users > May,Recent Customers
+396,396,7/16/2024 22:06,KCC Mall de Zamboanga,Lance Leighton T Clemente ,Yes,5.0007E+12,For personal purchases only,Yes,['Browsing Impulse Buyer'],Transacting Users > May,Loyal Customers
+397,397,7/18/2024 0:33,KCC Mall de Zamboanga,Chrizaleen A. Polidario,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Recent Customers
+398,398,7/16/2024 21:59,KCC Mall de Zamboanga,Sheme M. Agapay,Yes,5.0007E+12,For personal purchases only,Yes,"['Family-Oriented Mallgoer', 'Meticulous Shopper', 'Browsing Impulse Buyer', 'Loyal Raffle Player']",Lapsed,Promising
+399,399,7/24/2024 14:51,KCC Mall de Zamboanga,Alice Marata,Yes,5.0007E+12,For personal purchases only,Yes,[],Transacting Users > May,At Risk
